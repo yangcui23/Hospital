@@ -1,0 +1,265 @@
+.img {
+  width: 100px;
+}
+
+
+body {
+  background-image: url('https://cdn.wallpapersafari.com/25/85/bREnu7.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.con {
+  position: fixed;
+  top: 0px;
+  z-index: 50;
+  width: 100%;
+  transition: top 0.3s;
+}
+.video {
+  height: 1100px;
+  background-image: url('https://www.boldt.com/wp-content/uploads/2022/03/Centura-Health-%E2%80%93-St.-Peregrine-Pavilion-Cancer-Center_Primary.jpg');
+  background-size: contain;
+}
+.div {
+
+
+}
+.inv{
+height: 750px;
+}
+.button {
+  display: flex;
+  gap: 50px;
+
+}
+
+
+img {
+  width: max-content;
+}
+
+.photos {
+  margin-top: 100px;
+
+}
+
+
+.intro {
+  background-image: url('https://img.freepik.com/free-vector/blue-curve-background_53876-113112.jpg');
+  background-size: cover;
+}
+
+.home {
+  width: 70px;
+}
+
+
+.ab {
+  margin-top: 50px;
+  background-image: url('https://embed.widencdn.net/img/centura/2kc6rzgvv1/1600x1125px/Photo_MillerMollie_DO_OBGYN_EMBARGOED_WebBANNERTWO_4.jpg?crop=yes&position=c');
+  background-size: cover;
+  height: 1000px;
+}
+
+.bot {
+  background-color: #003566;
+  width: 100%;
+  height: 400px;
+
+  bottom: 0;
+}
+
+.eco {
+  width: 100%;
+  height: 500px;
+  background-color: white;
+  border-radius: 0% 0% 40% 40%;
+  margin-bottom: 200px;
+}
+
+.d {
+  background-image: url('https://wallpapers.com/images/featured/dgmxybg4kb7eab7x.jpg');
+  background-size: cover;
+  opacity: 1 !important;
+  border-radius: 1% 100% 0% 1%;
+
+  z-index: 9;
+}
+
+.f {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0.8;
+}
+
+.re {
+
+  width: 200px;
+  height: 100%;
+}
+
+.rw {
+
+  height: 100%;
+}
+
+.appoint {
+  margin-left: 1070px;
+
+}
+
+.book {
+  margin-left: 1200px;
+
+}
+
+.p {
+  margin-left: 1160px;
+}
+
+.login {
+  height: 900px;
+  margin-top: 80px;
+}
+
+
+.a {
+  margin-top: 124px;
+}
+
+.text {
+  margin-left: 1600px;
+}
+
+.fam {
+  height: 800px;
+}
+
+.i {
+  height: 150px;
+}
+
+.log {
+  margin-left: 46px;
+  margin-top: 20px;
+}
+
+.dw {
+  margin-left: 230px;
+}
+
+
+.ji {
+  margin: 0 auto;
+  margin-top: 130px;
+}
+
+.react-calendar {
+  width: 400px;
+  max-width: 100%;
+  background-color: #fff;
+  color: #222;
+  border-radius: 8px;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.125em;
+}
+
+.react-calendar__navigation button {
+  color: #6f48eb;
+  min-width: 44px;
+  background: none;
+  font-size: 16px;
+  margin-top: 8px;
+}
+
+.react-calendar__navigation button:enabled:hover,
+.react-calendar__navigation button:enabled:focus {
+  background-color: #f8f8fa;
+}
+
+.react-calendar__navigation button[disabled] {
+  background-color: #f0f0f0;
+}
+
+abbr[title] {
+  text-decoration: none;
+}
+
+/* .react-calendar__month-view__days__day--weekend {
+  color: #d10000;
+ } */
+.react-calendar__tile:enabled:hover,
+.react-calendar__tile:enabled:focus {
+  background: #f8f8fa;
+  color: #6f48eb;
+  border-radius: 6px;
+}
+
+.react-calendar__tile--now {
+  background: #6f48eb33;
+  border-radius: 6px;
+  font-weight: bold;
+  color: #6f48eb;
+}
+
+.react-calendar__tile--now:enabled:hover,
+.react-calendar__tile--now:enabled:focus {
+  background: #6f48eb33;
+  border-radius: 6px;
+  font-weight: bold;
+  color: #6f48eb;
+}
+
+.react-calendar__tile--hasActive:enabled:hover,
+.react-calendar__tile--hasActive:enabled:focus {
+  background: #f8f8fa;
+}
+
+.react-calendar__tile--active {
+  background: #6f48eb;
+  border-radius: 6px;
+  font-weight: bold;
+  color: white;
+}
+
+.react-calendar__tile--active:enabled:hover,
+.react-calendar__tile--active:enabled:focus {
+  background: #6f48eb;
+  color: white;
+}
+
+.react-calendar--selectRange .react-calendar__tile--hover {
+  background-color: #f8f8fa;
+}
+
+.react-calendar__tile--range {
+  background: #f8f8fa;
+  color: #6f48eb;
+  border-radius: 0;
+}
+
+.react-calendar__tile--rangeStart {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  background: #6f48eb;
+  color: white;
+}
+
+.react-calendar__tile--rangeEnd {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  background: #6f48eb;
+  color: white;
+}
+
+.vid {
+  background-image: url('https://www.pexels.com/video/a-man-confined-in-a-hospital-6011433/');
+}
